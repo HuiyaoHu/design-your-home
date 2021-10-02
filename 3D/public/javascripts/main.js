@@ -1,4 +1,4 @@
-// cd C:\Users\huiya\Desktop\Y5S1\AR5806_Architectural_Design_Research_Report\0_GITHUB\huiyaohu.github.io\design-your-home\3D
+// cd C:\Users\huiya\Desktop\Y5S1\AR5806_Architectural_Design_Research_Report\0_GITHUB\design-your-home\3D
 
 import * as THREE from '/jsm/build/three.module.js';
 import { GLTFLoader } from 'https://cdn.skypack.dev/three@0.132.2/examples/jsm/loaders/GLTFLoader.js';
